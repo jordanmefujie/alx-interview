@@ -9,6 +9,7 @@ exit
 ... ]
 >>> for coins, total in test_cases:
 ...     print(makeChange(coins, total))
+
 7
 -1
 
