@@ -64,6 +64,7 @@ def rm_multiples(ls, x):
         None.
 
     Raises:
+
         None.
     """
     # This loop iterates over multiples of a prime number and marks them as
